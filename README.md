@@ -1,2 +1,3 @@
 # AMAL
-Advanced Machine Learning and Deep Learning
+Advanced Machine Learning and Deep Learning at Sorbonne Université
+
